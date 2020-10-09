@@ -11,3 +11,7 @@ Used github users api to fetch the users information if present
 To fetch the specific user's repo
 
 > Link: https://api.github.com/users/user_name/repos
+
+## Web-Page Link
+
+Live Link hosted on Github pages (click here)[https://tushar9721.github.io/github-profile/]
