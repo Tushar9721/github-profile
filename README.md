@@ -14,4 +14,4 @@ To fetch the specific user's repo
 
 ## Web-Page Link
 
-Live Link hosted on Github pages (click here)[https://tushar9721.github.io/github-profile/]
+Live Link hosted on Github pages https://tushar9721.github.io/github-profile/
