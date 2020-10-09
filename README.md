@@ -6,7 +6,7 @@ This applications helps to get the users github data such as image, repositories
 
 Used github users api to fetch the users information if present
 
-> Link: (Github Api)[https://api.github.com/users/]
+> Link: https://api.github.com/users/
 
 To fetch the specific user's repo
 
